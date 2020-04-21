@@ -4,9 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "webpack-dev-server --hot --mode development",
-    "build": "webpack --env.app=app --mode=production"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -17,11 +15,5 @@
   "bugs": {
     "url": "https://github.com/DavidChhing/Wedding-Site/issues"
   },
-  "homepage": "https://github.com/DavidChhing/Wedding-Site#readme",
-  "devDependencies": {
-    "eslint": "^5.7.0",
-    "eslint-plugin-babel": "^5.2.1",
-    "eslint-plugin-react": "^7.18.3",
-    "eslint-watch": "^4.0.2"
-  }
+  "homepage": "https://github.com/DavidChhing/Wedding-Site#readme"
 }
