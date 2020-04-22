@@ -12,6 +12,7 @@
 .landing-page-image {
   width: 100%;
   height: auto;
+  opacity: 0.9;
 }
 
 .name-section {
