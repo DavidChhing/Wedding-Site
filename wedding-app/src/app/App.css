@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+
+.landing-page-image-section {
+  height: auto;
+  width: 100%;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-image {
+  width: 100%;
+  height: auto;
+}
+
+.name-section {
+  position: absolute;
+  top: 40%;
+  width: 100%;
+}
+
+.name-styling {
+  color: white;
+  letter-spacing: 0.3em;
+  font-family: lato-light, lato, sans-serif;
+  font-size: 1.3em;
+}
+
+.date-section {
+  position: absolute;
+  top: 60%;
+  width: 100%;
+}
+
+.date {
+  letter-spacing: 0.3em;
+  font-family: lato-light, lato, sans-serif;
+  color: white;
+  font-size: 1.1em;
+}
